@@ -13,7 +13,6 @@ import fr.diginamic.recensement.entites.Pays;
 import fr.diginamic.recensement.entites.Region;
 import fr.diginamic.recensement.entites.Ville;
 
-
 public class Recensement {
 
 	private int compteurVilles;

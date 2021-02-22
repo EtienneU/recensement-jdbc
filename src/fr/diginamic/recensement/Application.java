@@ -27,7 +27,7 @@ public class Application {
 				switch (choix) {
 				case 1:
 					RecherchePopulation recherche1 = new RecherchePopulation(1, "ville");
-					recherche1.traiter(scanner, recens);
+					recherche1.traiter(scanner);
 					break;
 				case 2:
 					RecherchePopulation recherche2 = new RecherchePopulation(2, "département");
